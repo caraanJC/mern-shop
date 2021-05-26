@@ -2,7 +2,7 @@ const products = [
   {
     name: 'Playstation 5',
     imageUrl:
-      'https://images.unsplash.com/photo-1607853202273-797f1c22a38e?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=564&q=80',
+      'https://images.unsplash.com/photo-1606813907291-d86efa9b94db?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1352&q=80',
     description:
       "The PlayStation 5 (PS5) is a home video game console developed by Sony Interactive Entertainment. Announced in 2019 as the successor to the PlayStation 4, the PS5 was released on November 12, 2020, in Australia, Japan, New Zealand, North America, Singapore and South Korea, with worldwide release following a week later. The PS5, along with Microsoft's Xbox Series X and Series S consoles, released the same month, are part of the ninth generation of video game consoles.",
     price: 499,
